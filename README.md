@@ -1,5 +1,7 @@
+<Yiek/>
+
 - 👋 Hi, I’m @YiekSiewHao
-- 👀 I’m interested in exploring new programming languages.
+- 👀 I’m interested in tech gadgets and exploring new programming language.
 - 🌱 I’m currently learning HTML and CSS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
