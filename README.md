@@ -1,8 +1,8 @@
 <Yiek/>
 
 - 👋 Hi, I’m @YiekSiewHao
-- 👀 I’m interested in tech gadgets and exploring new programming language.
-- 🌱 I’m currently learning HTML and CSS.
+- 👀 I’m interested in tech gadgets and watching movies.
+- 🌱 I’m currently learning the fundamentals of Javascript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
